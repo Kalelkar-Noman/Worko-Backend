@@ -12,8 +12,11 @@ Create a .env file inside project folder after cloning
 For Example:
 
 PORT="3000"
+
 MONGODB_URI="mongodb://localhost:27017"
+
 DB_NAME="worko"
+
 COUNTRY_CODE = 'IN'
 
 Change Above Variable According To you
